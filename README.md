@@ -24,7 +24,7 @@ A recommendation system that jointly optimizes fairness, accuracy, and serendipi
 - Designed domain-specific objective functions and Pareto-front evaluation metrics.  
 - Parallelized evolutionary operations for scalable runtime on MovieLens and Amazon datasets.  
 - Achieved improvements across F1-score, fairness, and serendipity metrics.  
-📎 *Repository:* https://github.com/blitzz28/FAS-MOEA  
+📎 *Repository:* https://github.com/blitzz28/FASMOEA  
 
 ---
 
