@@ -1,9 +1,18 @@
 # 👋 Hi, I'm Shresth Khaitan  
 
 I am an aspiring computer scientist interested in **machine learning**, **distributed systems**, and **security-focused AI**.  
-My work bridges **representation learning**, **multi-objective optimization**, and **systems engineering** to build models that remain reliable and deployable under real-world constraints.
+My work bridges **representation learning**, **multi-objective optimization**, and **systems engineering** to build models that remain reliable and deployable under real-world constraints. 
 
-Below is a selection of my research and academic projects.
+My long-term goal is to develop AI systems that remain robust under distribution shift and real-world constraints.
+
+---
+
+## 🎯 Research Interests
+- Robust & scalable machine learning  
+- Distributed training systems  
+- Security-aware ML (intrusion detection, adversarial robustness)
+- Multi-objective optimization & evaluation  
+- Reliable deployment of AI in real-world environments
 
 ---
 
